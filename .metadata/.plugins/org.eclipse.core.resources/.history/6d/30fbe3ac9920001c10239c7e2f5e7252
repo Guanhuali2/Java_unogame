@@ -1,0 +1,7 @@
+
+public class Gui_test {
+	public static void main(String arg[])
+	{
+	System.out.println("ÄãºÃ");
+	}
+}
