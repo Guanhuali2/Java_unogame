@@ -25,7 +25,7 @@ And test classes for each class
 Run Junit test for each of the test class
 
 ## How to use?
-Not able to run yet, since it is just a basic strcuture of the whole ga,e
+Run the Unogame.java
 
 ## Contribute
 
